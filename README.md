@@ -6,8 +6,8 @@ Thanks to rapid increase of next-generation sequencing(NGS) data, bioinformatics
 
 There are many ways to set-up bioinformatics and data analysis server including
 
-1. [Anaconda] (https://www.anaconda.com/)
-2. [Bioconda] (https://bioconda.github.io/)
+1. [Anaconda](https://www.anaconda.com/)
+2. [Bioconda](https://bioconda.github.io/)
 3. Other ways to do
 
 But here are some problems that I have experienced when setting analysis server.
